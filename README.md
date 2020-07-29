@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-  body {background-image: url('bbi,jpg');
+  body {background-image: url('bbi.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
    background-size: 100% 100%;}
